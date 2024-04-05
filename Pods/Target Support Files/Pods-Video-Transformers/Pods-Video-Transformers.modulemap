@@ -1,0 +1,6 @@
+framework module Pods_Video_Transformers {
+  umbrella header "Pods-Video-Transformers-umbrella.h"
+
+  export *
+  module * { export * }
+}
